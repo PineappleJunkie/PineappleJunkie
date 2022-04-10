@@ -1,4 +1,6 @@
-### Hi there 👋
+### Howdy 👋 I am Andy!
+
+I am a lead with an analyst heart who is passionate about malware, python, threat intelligence with an application in tracking baddies. I like to ride two-wheeled vehicles and play video games in my free time.
 
 <!--
 **PineappleJunkie/PineappleJunkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
